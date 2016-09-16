@@ -1,4 +1,5 @@
 # main
+Planning repo for The Arcade, a place to collaborate, brainstorm, and showcase anything programming. This is the starting point for ideas and news for Arcade members.
 ## cool API's
 * [NASA](https://api.nasa.gov/api.html)
 * [USDA](https://ndb.nal.usda.gov/ndb/api/doc)
