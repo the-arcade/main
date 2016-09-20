@@ -7,3 +7,6 @@ Planning repo for The Arcade, a place to collaborate, brainstorm, and showcase a
 * [Contact info](https://www.fullcontact.com/developer/)
 * [Google Maps](https://developers.google.com/maps/)
 * [slack](https://api.slack.com)
+
+## project ideas
+* [Starcraft AI](https://github.com/bwapi/bwapi)
