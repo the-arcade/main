@@ -10,3 +10,6 @@ Planning repo for The Arcade, a place to collaborate, brainstorm, and showcase a
 
 ## project ideas
 * [Starcraft AI](https://github.com/bwapi/bwapi)
+
+## other useful/neat links
+* [Yeoman](http://yeoman.io) - helps you to kickstart new projects
